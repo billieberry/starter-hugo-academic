@@ -30,7 +30,7 @@ image:
 
 authors:
 - admin
-- Matt Plummer, André 
+- Matt Plummer, André Geldnehuis
 
 tags:
 - Academic
